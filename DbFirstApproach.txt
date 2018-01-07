@@ -1,0 +1,17 @@
+Step1: Install below packages for entity frame work core
+
+Install-package Microsoft.EntityFrameworkCore.SqlServer
+Install-package Microsoft.EntityFrameworkCore.Tools
+Install-package Microsoft.EntityFrameworkCore.Design
+Install-package Microsoft.EntityFrameworkCore.SqlServer.Design
+Install-package Microsoft.EntityFrameworkCore.Tools.DotNet
+
+Step2: Run belw command in Package Manager console to create db context and respective entities here provide your data source name
+
+Scaffold-DbContext "Data Source=(localdb)\ProjectsV13;Initial Catalog=ActorDb;Integrated Security=True;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+Step3: Remove connection string from dbcontext class and place it in starup file as shown in code
+
+Step 4: Creat actor cntroller and make use of it
+
+Thanks for viewing it

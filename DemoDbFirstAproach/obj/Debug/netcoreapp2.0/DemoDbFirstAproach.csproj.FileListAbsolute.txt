@@ -1,0 +1,11 @@
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\bin\Debug\netcoreapp2.0\DemoDbFirstAproach.deps.json
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\bin\Debug\netcoreapp2.0\DemoDbFirstAproach.runtimeconfig.json
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\bin\Debug\netcoreapp2.0\DemoDbFirstAproach.runtimeconfig.dev.json
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\bin\Debug\netcoreapp2.0\DemoDbFirstAproach.dll
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\obj\Debug\netcoreapp2.0\DemoDbFirstAproach.csprojResolveAssemblyReference.cache
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\obj\Debug\netcoreapp2.0\DemoDbFirstAproach.csproj.CoreCompileInputs.cache
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\obj\Debug\netcoreapp2.0\DemoDbFirstAproach.AssemblyInfoInputs.cache
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\obj\Debug\netcoreapp2.0\DemoDbFirstAproach.AssemblyInfo.cs
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\bin\Debug\netcoreapp2.0\DemoDbFirstAproach.pdb
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\obj\Debug\netcoreapp2.0\DemoDbFirstAproach.dll
+F:\EntityFrameworkcore\DemoDbFirstAproach\DemoDbFirstAproach\obj\Debug\netcoreapp2.0\DemoDbFirstAproach.pdb
